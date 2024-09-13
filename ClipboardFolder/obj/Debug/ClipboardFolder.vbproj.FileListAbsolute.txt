@@ -1,0 +1,10 @@
+C:\Users\Antho\Documents\GitHub\clipboard-folder\ClipboardFolder\bin\Debug\ClipboardFolder.exe
+C:\Users\Antho\Documents\GitHub\clipboard-folder\ClipboardFolder\bin\Debug\ClipboardFolder.pdb
+C:\Users\Antho\Documents\GitHub\clipboard-folder\ClipboardFolder\bin\Debug\ClipboardFolder.xml
+C:\Users\Antho\Documents\GitHub\clipboard-folder\ClipboardFolder\obj\Debug\ClipboardFolder.vbprojResolveAssemblyReference.cache
+C:\Users\Antho\Documents\GitHub\clipboard-folder\ClipboardFolder\obj\Debug\ClipboardFolder.Form1.resources
+C:\Users\Antho\Documents\GitHub\clipboard-folder\ClipboardFolder\obj\Debug\ClipboardFolder.Resources.resources
+C:\Users\Antho\Documents\GitHub\clipboard-folder\ClipboardFolder\obj\Debug\ClipboardFolder.vbproj.GenerateResource.Cache
+C:\Users\Antho\Documents\GitHub\clipboard-folder\ClipboardFolder\obj\Debug\ClipboardFolder.exe
+C:\Users\Antho\Documents\GitHub\clipboard-folder\ClipboardFolder\obj\Debug\ClipboardFolder.xml
+C:\Users\Antho\Documents\GitHub\clipboard-folder\ClipboardFolder\obj\Debug\ClipboardFolder.pdb
