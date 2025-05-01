@@ -77,7 +77,7 @@ Public Class Form1
             Dim fileExtension As String = Path.GetExtension(filePath).ToLower()
 
             Select Case fileExtension
-                Case ".txt"
+                Case ".txt", ".svg"
                     ' Read the file content and copy to clipboard
                     Dim textContent As String = File.ReadAllText(filePath)
                     Clipboard.SetText(textContent)
